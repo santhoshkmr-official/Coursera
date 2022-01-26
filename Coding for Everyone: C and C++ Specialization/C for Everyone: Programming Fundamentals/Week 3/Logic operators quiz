@@ -1,0 +1,131 @@
+1.
+
+#include <stdio.h>
+
+
+#include <stdlib.h>
+
+
+int main(void)
+{
+   int  a = 0, b = 1, c = 2;
+   
+   If (a < b) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+
+   If (a < b - c) printf (“ TRUE\n”); else printf(“ FALSE\n”);   
+   
+   If (b < c - 1) printf (“ TRUE\n”); else printf(“ FALSE\n”); 
+
+   If (!c) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+     return 0;
+}
+
+
+What does the program print as a first line?
+
+[x] TRUE
+
+[] FALSE
+
+[] 1
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+2.
+
+#include <stdio.h>
+
+
+#include <stdlib.h>
+
+
+int main(void)
+{
+   int  a = 0, b = 1, c = 2;
+   
+   If (a < b) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+
+   If (a < b - c) printf (“ TRUE\n”); else printf(“ FALSE\n”);   
+   
+   If (b < c - 1) printf (“ TRUE\n”); else printf(“ FALSE\n”); 
+
+   If (!c) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+     return 0;
+}
+
+
+What does the program print as a second line?
+
+[] TRUE
+
+[x] FALSE
+
+[] 1
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+3.
+
+#include <stdio.h>
+
+
+#include <stdlib.h>
+
+
+int main(void)
+{
+   int  a = 0, b = 1, c = 2;
+   
+   If (a < b) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+
+   If (a < b - c) printf (“ TRUE\n”); else printf(“ FALSE\n”);   
+   
+   If (b < c - 1) printf (“ TRUE\n”); else printf(“ FALSE\n”); 
+
+   If (!c) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+     return 0;
+}
+
+
+What does the program print as a third line?
+
+[] TRUE
+
+[x] FALSE
+
+[] 1
+
+________________________________________________________________________________________________________________________________________________________________________________
+
+4.
+
+#include <stdio.h>
+
+
+#include <stdlib.h>
+
+
+int main(void)
+{
+   int  a = 0, b = 1, c = 2;
+   
+   If (a < b) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+
+   If (a < b - c) printf (“ TRUE\n”); else printf(“ FALSE\n”);   
+   
+   If (b < c - 1) printf (“ TRUE\n”); else printf(“ FALSE\n”); 
+
+   If (!c) printf (“ TRUE\n”); else printf(“ FALSE\n”);
+     return 0;
+}
+
+
+What does the program print as a fourth line?
+
+[] TRUE
+
+[x] FALSE
+
+[] 1
+
+________________________________________________________________________________________________________________________________________________________________________________
